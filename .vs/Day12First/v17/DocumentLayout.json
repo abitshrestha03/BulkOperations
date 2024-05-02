@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Intern\\Day12First\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\controllers\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\controllers\\fruitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\views\\fruit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\views\\fruit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\repository\\ifruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\repository\\ifruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\repository\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\repository\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|e:\\intern\\day12first\\day12first\\migrations\\20240428070958_initital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D2698E-251D-4899-A20D-6105E360D4DD}|Day12First\\Day12First.csproj|solutionrelative:day12first\\migrations\\20240428070958_initital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Intern\\Day12First\\Day12First\\Migrations\\20240502031650_added-check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day12First\\Migrations\\20240502031650_added-check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Day12First\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Day12First\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T05:36:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Views\\Fruit\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day12First\\Views\\Fruit\\Index.cshtml",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Views\\Fruit\\Index.cshtml",
+              "RelativeToolTip": "Day12First\\Views\\Fruit\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T06:40:45.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FruitRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Repository\\FruitRepository.cs",
+              "RelativeDocumentMoniker": "Day12First\\Repository\\FruitRepository.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Repository\\FruitRepository.cs",
+              "RelativeToolTip": "Day12First\\Repository\\FruitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:40:12.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFruitRepository.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Repository\\IFruitRepository.cs",
+              "RelativeDocumentMoniker": "Day12First\\Repository\\IFruitRepository.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Repository\\IFruitRepository.cs",
+              "RelativeToolTip": "Day12First\\Repository\\IFruitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:40:00.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Day12First\\Models\\Fruit.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Models\\Fruit.cs",
+              "RelativeToolTip": "Day12First\\Models\\Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:39:11.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitController.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Controllers\\FruitController.cs",
+              "RelativeDocumentMoniker": "Day12First\\Controllers\\FruitController.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Controllers\\FruitController.cs",
+              "RelativeToolTip": "Day12First\\Controllers\\FruitController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T10:30:15.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240502031650_added-check.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Migrations\\20240502031650_added-check.cs",
+              "RelativeDocumentMoniker": "Day12First\\Migrations\\20240502031650_added-check.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Migrations\\20240502031650_added-check.cs",
+              "RelativeToolTip": "Day12First\\Migrations\\20240502031650_added-check.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:16:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day12First\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day12First\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T10:11:51.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Day12First\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Day12First\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:08:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240428070958_initital.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Migrations\\20240428070958_initital.cs",
+              "RelativeDocumentMoniker": "Day12First\\Migrations\\20240428070958_initital.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Migrations\\20240428070958_initital.cs",
+              "RelativeToolTip": "Day12First\\Migrations\\20240428070958_initital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:09:58.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Intern\\Day12First\\Day12First\\Program.cs",
+              "RelativeDocumentMoniker": "Day12First\\Program.cs",
+              "ToolTip": "E:\\Intern\\Day12First\\Day12First\\Program.cs",
+              "RelativeToolTip": "Day12First\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:20:19.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
